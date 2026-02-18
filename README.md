@@ -90,8 +90,8 @@ Responsabilités :
 ![Taches2](assets/screenshots/PageTaches2.png)
 
 #### Gestion des utilisateurs (ADMIN)
-![Utilisateurs1](assets/screenshots/PageUtilsateurs1.png)
-![Utilisateurs2](assets/screenshots/PageUtilsateurs2.png)
+![Utilisateurs1](assets/screenshots/PageUtilisateurs1.png)
+![Utilisateurs2](assets/screenshots/PageUtilisateurs2.png)
 
 
 ## 7. 🔄 Workflow des tâches
